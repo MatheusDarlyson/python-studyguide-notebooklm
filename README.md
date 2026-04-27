@@ -109,3 +109,6 @@ Durante o desenvolvimento deste projeto, foi possível perceber que:
 ## 🔗 Referências
 
 As referências utilizadas neste projeto estão listadas na seção de curadoria de fontes, incluindo eBooks e vídeos selecionados para compor a base de conhecimento do NotebookLM.
+
+
+🔗 Acesse o NotebookLM: (https://notebooklm.google.com/notebook/5d3aec07-ac23-4d96-b5fb-1c25af0a5b33)
